@@ -26,4 +26,4 @@
 - 前年度以前の研修内容はhttp://cse.fra.affrc.go.jp/ichimomo/ から，今年度の上級の研修内容はhttps://github.com/ichimomo/shigen_kensyu2019Aから閲覧できます．
 
 ##　懇親会参加者はアンケートにお答えください。以下URLです。
-https://docs.google.com/forms/d/1JZPxhfxuXWtVzU_0iMtkCD3MSFN7qzhOtIBtHy6gWYs/edit
+https://docs.google.com/forms/d/1_GOY6OhA4NzfiexvqI_VZ9JB9btYKgEgBJN5Cq_5Zhc/edit

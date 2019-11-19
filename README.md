@@ -23,7 +23,7 @@
 - 18日（月）の午前中は，Rを使ったことがない人を対象にした超初級コースになりますので，Rを既にご使用の方については午後からの参加でかまいません．
 - 実例を実習する時間を設けますのでPCを持参の上ご参加ください．ネットにも接続できるように準備しておりますが，できればR (https://www.r-project.org/) およびRStudio (https://rstudio.com/) は事前にインストールしてください．また，事前にHPに配布資料を掲載しますので，各自で予習をされますと理解の助けになるかと思います．
 - 1日目の17時半より，参加者の意見交換会も行います．意見交換会では，業務上の資源解析に関する悩み相談・問題意識共有などを積極的に進められるようなファシリテーションを実施することも予定しております．研修申込の際に，意見交換会回への参加の有無もご連絡ください．
-- 前年度以前の研修内容はhttp://cse.fra.affrc.go.jp/ichimomo/ から，今年度の上級の研修内容はhttps://github.com/ichimomo/shigen_kensyu2019Aから閲覧できます．
+- 前年度以前の研修内容はhttp://cse.fra.affrc.go.jp/ichimomo/ から，今年度の上級の研修内容は https://github.com/ichimomo/shigen_kensyu2019A から閲覧できます．
 
 ##　懇親会参加者はアンケートにお答えください。以下URLです。
 https://docs.google.com/forms/d/1_GOY6OhA4NzfiexvqI_VZ9JB9btYKgEgBJN5Cq_5Zhc/edit
